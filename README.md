@@ -7,3 +7,7 @@
 This project was developed with the following technologies:
 
 - [HTML5](https://www.w3schools.com/)
+- [CSS3](https://www.w3schools.com/css/)
+- [JavaScript](https://www.w3schools.com/js/)
+
+#### Developed with the ♥ Marathon Explorer 3.0 event with [Rocketseat](https://www.rocketseat.com.br/)!
