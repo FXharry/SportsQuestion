@@ -12,6 +12,6 @@ This project was developed with the following technologies:
 
 ## Link 🚀
 
-- [Deploy - Pages]()
+- [Deploy - Pages](https://fxharry.github.io/SportsQuestion/)
 
 #### Developed with the ♥ Marathon Explorer 3.0 event with [Rocketseat](https://www.rocketseat.com.br/)!
