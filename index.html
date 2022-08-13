@@ -1,19 +1,25 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Maratona Explorer</title>
+    <script type="text/javascript" src="./index.js" defer></script>
     <link rel="stylesheet" href="style.css" />
-    <title>Sports Question</title>
   </head>
+
   <body>
     <div id="container">
-      <img src="assets/FXharry.png" alt="FXharrylogo" />
+      <img src="assets/FXharry.png" alt="Imagem de uma bola de cristal" />
       <h1>I'll reveal what your favorite sport is!</h1>
-      <p>Click ask question and your favorite sport will be revealed!</p>
-      <input type="text" placeholder="Type your question" />
-      <button>Ask Question</button>
+      <p>Give a tip on what your favorite sport is and click ask!</p>
+      <input id="inputPergunta" type="text" placeholder="Type your question" />
+      <button id="buttonPerguntar" onclick="fazerPergunta()">
+        Ask Question
+      </button>
+
+      <h3 id="resposta"></h3>
     </div>
   </body>
 </html>

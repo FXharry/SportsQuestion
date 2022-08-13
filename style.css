@@ -44,12 +44,26 @@ input {
 
 button {
   border: none;
-  background-color: blueviolet;
+  background-color: red;
   color: white;
   transition: filter 0.2s;
 }
 
+/* pseudo-class :hover */
 button:hover {
   filter: brightness(1.2);
   cursor: pointer;
+}
+
+#resposta {
+  margin-top: 30px;
+
+  transition: opacity 1s;
+}
+
+#resposta div {
+  font-size: 16px;
+  font-weight: normal;
+  opacity: 0.9;
+  margin-bottom: 10px;
 }
