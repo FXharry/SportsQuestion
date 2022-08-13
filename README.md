@@ -5,7 +5,7 @@
 ![sportsquestionimg](https://i.imgur.com/UNGudZ9.png
 
 <p align="center">
-  <img src="https://i.imgur.com/UNGudZ9.png" width="350" title="hover text">
+  <img src="https://i.imgur.com/UNGudZ9.png" width="500" title="sportsquestionimg">
 
 ## Link 🚀
 
