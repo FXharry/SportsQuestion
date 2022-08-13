@@ -7,7 +7,7 @@
 
 ## Link 🚀
 
-- [Deploy - Pages](https://fxharry.github.io/SportsQuestion/](https://i.imgur.com/UNGudZ9.png)
+- [Deploy - Pages](https://fxharry.github.io/SportsQuestion)
 
 
 ## Tecnologies ✨
