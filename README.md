@@ -1,1 +1,1 @@
-<h1>Sports Question!</h1>
+<h1 align="center">Sports Question!</h1>
