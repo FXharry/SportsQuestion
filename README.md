@@ -2,7 +2,9 @@
 
 #### In this project I will reveal (or try) your favorite sport! So just send your question, and I'll try to get it right!
 
-![project image](https://imgur.com/UNGudZ9)
+<p align="center">
+  <img src="[sportsquestionimg](https://imgur.com/a/HnatXKF)" width="350" title="hover text"> /
+</p>
 
 ## Link 🚀
 
