@@ -3,7 +3,7 @@
 #### In this project I will reveal (or try) your favorite sport! So just send your question, and I'll try to get it right!
 
 <p align="center">
-  <img src="https://i.imgur.com/UNGudZ9.png" width="500" title="sportsquestionimg"/>
+  <img src="https://imgur.com/x25iYxw" width="500" title="sportsquestionimg"/>
 
 ## Link 🚀
 
